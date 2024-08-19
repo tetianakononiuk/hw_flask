@@ -1,0 +1,5 @@
+.idia/
+__pycashe__/
+.venv/
+venv/
+.env
