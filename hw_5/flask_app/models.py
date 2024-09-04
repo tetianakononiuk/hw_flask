@@ -1,4 +1,4 @@
-from . import db
+from flask_app import db
 
 class Category(db.Model):
     __tablename__ = 'categories'
